@@ -24,3 +24,6 @@ The ML-Based Disease Prediction System aims to leverage machine learning techniq
   Install sklearn using pip on command line.
 
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/6f747a8c-9bec-4ff2-94e7-94724708beef)
