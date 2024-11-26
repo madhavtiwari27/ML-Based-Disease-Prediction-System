@@ -9,19 +9,20 @@ The ML-Based Disease Prediction System aims to leverage machine learning techniq
 
 + **NumPy inatalled:**
 
-  Install NumPy using pip on command line.
+  > pip install numpy
+  
 
 + **TKinter installed:**
 
-  Install TKinter using pip on command line.
+  > pip install tkinter
 
 + **Pandas installed:**
 
-  Install Pandas using pip on command line.
+  > pip install pandas
 
 + **scikit-learn installed:**
 
-  Install sklearn using pip on command line.
+  > pip install sklearn
 
 
 ## Screenshot
